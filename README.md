@@ -29,7 +29,7 @@ This project analyzes the performance of Premier League players for the 2023/202
 ## Screenshots
 ![Forward Players Analysis](ForwardPBI.png)
 ![Goalkeeper Players Analysis](GKPBI.png)
-![Midfield Players Analysis](MidfieldPBI.png)
+![Midfield Players Analysis](MidlfieldPBI.png)
 ![Defender Players Analysis](DefenderPBI.png)
 
 ## Conclusion
